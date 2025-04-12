@@ -23,4 +23,4 @@ Functions Used
 - plot_tree(node): Visualizes the decision tree using matplotlib, plotting the tree structure.
 
 
-Built as part of EPOCh Spring Camp session to understand decision trees from the ground up!
+Built as part of EPOCH Spring Camp session to understand decision trees from the ground up!
